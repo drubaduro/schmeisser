@@ -1,0 +1,2 @@
+# schmeisser
+Usage: $(selector).schmeisser();
